@@ -1,51 +1,61 @@
 {
   "warehouses": [
     {
+      "id": 1,
       "name": "Warehouse 1",
       "code": "WH1"
     },
 
     {
+      "id": 2,
       "name": "Warehouse 2",
       "code": "WH2"
     },
 
     {
+      "id": 3,
       "name": "Warehouse 3",
       "code": "WH3"
     },
 
     {
+      "id": 4,
       "name": "Warehouse 4",
       "code": "WH4"
     },
 
     {
+      "id": 5,
       "name": "Warehouse 5",
       "code": "WH5"
     },
 
     {
+      "id": 6,
       "name": "Warehouse 6",
       "code": "WH6"
     },
 
     {
+      "id": 7,
       "name": "Warehouse 7",
       "code": "WH7"
     },
 
     {
+      "id": 8,
       "name": "Warehouse 8",
       "code": "WH8"
     },
 
     {
+      "id": 9,
       "name": "Warehouse 9",
       "code": "WH9"
     },
 
     {
+      "id": 10,
       "name": "Warehouse 10",
       "code": "WH10"
     }
