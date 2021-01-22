@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "warehouses": [
+    {
+      "name": "Warehouse 1",
+      "code": "WH1"
+    },
+
+    {
+      "name": "Warehouse 2",
+      "code": "WH2"
+    },
+
+    {
+      "name": "Warehouse 3",
+      "code": "WH3"
+    },
+
+    {
+      "name": "Warehouse 4",
+      "code": "WH4"
+    },
+
+    {
+      "name": "Warehouse 5",
+      "code": "WH5"
+    },
+
+    {
+      "name": "Warehouse 6",
+      "code": "WH6"
+    },
+
+    {
+      "name": "Warehouse 7",
+      "code": "WH7"
+    },
+
+    {
+      "name": "Warehouse 8",
+      "code": "WH8"
+    },
+
+    {
+      "name": "Warehouse 9",
+      "code": "WH9"
+    },
+
+    {
+      "name": "Warehouse 10",
+      "code": "WH10"
+    }
+  ]
+    
+    
+  },
+
+
 }
